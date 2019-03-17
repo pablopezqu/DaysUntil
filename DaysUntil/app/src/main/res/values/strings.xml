@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DaysUntil</string>
+    <string name="dia_hoy">Hoy es</string>
+    <string name="toast_compartir">Pulse el botón \'calcula\' para generar el evento</string>
+    <string name="toast_fecha">Introduzca una fecha y un nombre de evento, por favor</string>
+    <string name="toast_nombreEvento">Introduzca un nombre de evento, por favor</string>
+    <string name="boton_calcula">CALCULA</string>
+    <string name="str_evento">El evento</string>
+    <string name="str_eventoex">¡El evento</string>
+    <string name="str_pasado">ya ha pasado</string>
+    <string name="str_hoy">es hoy!</string>
+    <string name="str_mañana">es mañana</string>
+    <string name="str_quedan">"Quedan "</string>
+    <string name="str_diaspara">" días para el evento"</string>
+</resources>

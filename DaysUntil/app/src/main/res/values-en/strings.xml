@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DaysUntil</string>
+    <string name="dia_hoy">"Today is "</string>
+    <string name="toast_compartir">Click on \'calculate\' in order to generate an event</string>
+    <string name="toast_fecha">Please, introduce a valid date and an event name</string>
+    <string name="toast_nombreEvento">Please, introduce an event name</string>
+    <string name="boton_calcula">CALCULATE</string>
+    <string name="str_evento">"The event "</string>
+    <string name="str_eventoex">"The event "</string>
+    <string name="str_pasado">is over</string>
+    <string name="str_hoy">is today!</string>
+    <string name="str_mañana">is tomorrow</string>
+    <string name="str_diaspara">"  days for the event"</string>
+</resources>

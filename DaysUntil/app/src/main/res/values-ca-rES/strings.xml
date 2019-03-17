@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DaysUntil</string>
+    <string name="dia_hoy">"Avui és "</string>
+    <string name="toast_compartir">"Premi el botó 'calcula' per generar l'esdeveniment "</string>
+    <string name="toast_fecha">Introdueixi una data i un nom d\'esdeveniment, per favor</string>
+    <string name="toast_nombreEvento">Introdueixi un nom de l\'esdeveniment</string>
+    <string name="boton_calcula">CALCULA</string>
+    <string name="str_evento">" L'esdeveniment "</string>
+    <string name="str_eventoex">L\'esdeveniment</string>
+    <string name="str_pasado">ja ha passat</string>
+    <string name="str_hoy">és avui!</string>
+    <string name="str_mañana">és demà</string>
+    <string name="str_quedan">"Queden "</string>
+    <string name="str_diaspara">"  dies per a l'esdeveniment"</string>
+</resources>
